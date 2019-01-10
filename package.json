@@ -4,7 +4,7 @@
   "description": "Automatically generate mocha test structures from method chaining code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Note: The test also demonstrates a failing test; so expect a passing and a failing test.\" && mocha test.js || exit 0"
   },
   "author": "Marcel Toele",
   "license": "ISC",
