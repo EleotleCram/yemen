@@ -1,6 +1,6 @@
 {
   "name": "yemen",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Automatically generate mocha test structures from method chaining code",
   "main": "index.js",
   "scripts": {
